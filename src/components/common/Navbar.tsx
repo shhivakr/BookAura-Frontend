@@ -95,6 +95,7 @@ export function Navbar() {
               className={cn(
                 buttonVariants({
                   variant: "default",
+                  size: "sm",
                   className: "rounded-full px-4 shadow-sm",
                 }),
               )}
